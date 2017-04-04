@@ -5,12 +5,11 @@ import android.os.Bundle;
 
 import java.io.Console;
 
-public class MainActivity extends AppCompatActivity {
+public class LogInActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        System.out.println("Hello world");
         setContentView(R.layout.activity_main);
     }
 }
