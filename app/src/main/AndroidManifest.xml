@@ -16,6 +16,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ExplorerNewsActivity" />
+        <activity android:name=".ExplorerFavorisActivity" />
+        <activity android:name=".ExplorerSearchActivity" />
+        <activity android:name=".ExplorerResultsActivity" />
+        <activity android:name=".ExplorerDetailsActivity" />
+        <activity android:name=".WishListActivity" />
+        <activity android:name=".WishListEditActivity" />
+        <activity android:name=".MessageListActivity" />
+        <activity android:name=".MessageActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".ExchangeActivity" />
+        <activity android:name=".ExchangeDetailsActivity" />
+        <activity android:name=".ExchangeAddActivity" />
+        <activity android:name=".ExchangeEditActivity"></activity>
     </application>
 
 </manifest>
