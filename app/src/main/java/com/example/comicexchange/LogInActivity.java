@@ -14,6 +14,7 @@ public class LogInActivity extends AppCompatActivity {
         System.out.println("salut2");
         System.out.println("salut3");
         System.out.println("salut4");
+        System.out.println("Modif2");
         setContentView(R.layout.activity_main);
     }
 }
