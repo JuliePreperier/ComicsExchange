@@ -11,6 +11,7 @@ public class LogInActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         System.out.println("salut");
+        System.out.println("Coucou Julie");
         setContentView(R.layout.activity_main);
     }
 }
