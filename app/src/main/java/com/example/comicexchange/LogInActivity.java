@@ -12,6 +12,8 @@ public class LogInActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         System.out.println("putain de test a la con");
         System.out.println("merde");
+        System.out.println("yop");
+        System.out.println("Merge test");
         setContentView(R.layout.activity_main);
         System.out.println("casse couille");
     }
