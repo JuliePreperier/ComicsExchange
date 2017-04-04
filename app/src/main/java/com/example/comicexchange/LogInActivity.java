@@ -10,6 +10,7 @@ public class LogInActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        System.out.println("hello world");
         setContentView(R.layout.activity_main);
     }
 }
