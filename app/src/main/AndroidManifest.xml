@@ -29,7 +29,8 @@
         <activity android:name=".ExchangeActivity" />
         <activity android:name=".ExchangeDetailsActivity" />
         <activity android:name=".ExchangeAddActivity" />
-        <activity android:name=".ExchangeEditActivity"></activity>
+        <activity android:name=".ExchangeEditActivity" />
+        <activity android:name=".SignInActivity"></activity>
     </application>
 
 </manifest>
