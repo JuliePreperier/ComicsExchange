@@ -13,6 +13,6 @@ public class LogInActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         DbHelper myDBHelper = new DbHelper(this); // L'Activité est le Context qu'il faut donner
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_explorer);
     }
 }

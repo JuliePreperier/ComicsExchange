@@ -30,7 +30,10 @@
         <activity android:name=".ExchangeDetailsActivity" />
         <activity android:name=".ExchangeAddActivity" />
         <activity android:name=".ExchangeEditActivity" />
-        <activity android:name=".SignInActivity"></activity>
+        <activity android:name=".SignInActivity" />
+        <activity
+            android:name=".activity_explorer_test"
+            android:label="@string/title_activity_explorer_test"></activity>
     </application>
 
 </manifest>
